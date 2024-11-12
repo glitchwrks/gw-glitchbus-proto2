@@ -1,23 +1,40 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.2*
-G04 #@! TF.CreationDate,2020-03-26T11:17:15-04:00*
-G04 #@! TF.ProjectId,gw-glitchbus-proto2,67772d67-6c69-4746-9368-6275732d7072,rev?*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*
+G04 #@! TF.CreationDate,2024-11-12T14:01:25-05:00*
+G04 #@! TF.ProjectId,gw-glitchbus-proto2,67772d67-6c69-4746-9368-6275732d7072,PRODUCTION*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.2) date 2020-03-26 11:17:15*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-11-12 14:01:25*
 %MOMM*%
 %LPD*%
+G01*
 G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD10C,4.064000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD11C,1.778000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD12R,1.727200X1.727200*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD13O,1.727200X1.727200*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD14R,2.032000X2.032000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD15C,2.032000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
 %ADD16C,1.270000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
 %ADD17C,0.304800*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X195580000Y-152400000D03*
@@ -2007,4 +2024,12 @@ X186690000Y-139700000D02*
 X186690000Y-137160000D01*
 X186690000Y-137160000D02*
 X185420000Y-135890000D01*
+X175260000Y-152400000D02*
+X173990000Y-151130000D01*
+X173990000Y-151130000D02*
+X173990000Y-140970000D01*
+X173990000Y-140970000D02*
+X175260000Y-139700000D01*
+X175260000Y-139700000D02*
+X175260000Y-138430000D01*
 M02*
